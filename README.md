@@ -1,3 +1,3 @@
 # ConnectFour
 
-(Play here)[
+(Play here)[https://replit.com/@ivaylobrezin/ConnectFour]
